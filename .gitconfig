@@ -1,0 +1,4 @@
+[alias]
+	adog = log --all --date-order --oneline --graph
+	bdog = log --branches --date-order --oneline --graph
+	dog = log --date-order --oneline --graph
